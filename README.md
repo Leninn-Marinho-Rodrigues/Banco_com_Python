@@ -158,16 +158,6 @@ GET
 
 Lista todos os pedidos.
 
-🖼️ Telas e Funcionamento
-
-As imagens demonstram o projeto em execução, ilustrando a estrutura de pastas e a definição dos endpoints RESTful no código:
-
-Estrutura de Arquivos: Visualização da organização modular (controllers, models, repositories, schemas).
-
-Definição de Rotas: O arquivo app.py definindo a inicialização do FastAPI e a criação das tabelas no banco de dados.
-
-Lógica REST: Exemplo de como os métodos HTTP (GET, POST, PUT, DELETE) são mapeados para a lógica do sistema no app.py.
-
 ⚙️ Como Executar o Projeto
 
 Para rodar a API localmente e testar os endpoints:
